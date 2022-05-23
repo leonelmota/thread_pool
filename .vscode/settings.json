@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "queue": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "task_queue.h": "c",
+        "iostream": "cpp",
+        "new": "cpp"
+    }
+}
